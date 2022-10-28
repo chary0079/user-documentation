@@ -14,6 +14,9 @@ To get started, please follow the installation instructions and familiarize your
 
 Use the Search icon at the top left of this page to find what you're looking for. To learn more about JabRef's features, please follow the links below.
 
+
+JabRef 5.6 requires Mac OS 10.14 or higher.
+
 ## [Collect](collect/)
 
 * Add new entries [manually](collect/add-entry-manually.md) or the based on the [reference text](collect/newentryfromplaintext.md)
